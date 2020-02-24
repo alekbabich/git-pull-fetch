@@ -3,3 +3,4 @@ line 2
 line 6
 new line
 another line
+yet another line to practice fetch
