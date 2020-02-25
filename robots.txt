@@ -5,3 +5,4 @@ new line
 another line
 yet another line to practice fetch
 lets try another fetch/merge
+another
